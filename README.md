@@ -1,0 +1,2 @@
+# infra
+Inventarios de Infraestructura
